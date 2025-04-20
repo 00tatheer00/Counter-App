@@ -1,6 +1,6 @@
 # 🔢 JavaScript Counter App
 
-![Counter App Preview](https://via.placeholder.com/800x400?text=Counter+App+Preview)
+![Counter App Preview]([https://via.placeholder.com/800x400?text=Counter+App+Preview](https://00tatheer00.github.io/Counter-App/))
 
 A simple yet powerful counter application built with vanilla JavaScript. Perfect for learning DOM manipulation fundamentals!
 
