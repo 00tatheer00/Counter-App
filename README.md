@@ -51,13 +51,9 @@ This project demonstrates:
 
 Pull requests are welcome! For major changes, please open an issue first.
 
-## 📜 License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ---
 
 <div align="center">
-  <p>Made with ❤️ by YourName</p>
+  <p>Made with ❤️ by Sir Tatheer</p>
   <p>Happy counting! 🎉</p>
 </div>
